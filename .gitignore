@@ -1,0 +1,39 @@
+# Flutter
+*.dart_tool/
+*.packages
+*.DS_Store
+*.flutter-plugins
+*.flutter-plugins-dependencies
+*.flutter-plugins-dependencies
+.packages
+.dart_tool/
+
+# Build files
+build/
+android/app/build/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/.generated/
+windows/
+macos/
+web/
+linux/
+.fvm/
+pubspec.lock
+
+# Miscellaneous
+.idea/
+.vscode/
+*.iml
+*.log
+*.tmp
+*.swp
+*.lock
+*.lock.json
+*.bak
+*.orig
+*.pyc
+*.pyo
+*.class
+*.apk
+*.gradle
