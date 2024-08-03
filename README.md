@@ -21,8 +21,8 @@ This project is a web-based login page built using Flutter, featuring dynamic ru
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/minahil57/dynamic_color_getx.git
+   cd dynamic_color_getx
    ```
 
 2. **Install Dependencies:**
